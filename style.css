@@ -1,0 +1,432 @@
+.root {
+    background: rgba(0, 0, 0, 0.7)url("Netflix\ logo1.jpg");
+    background-size: cover;
+    background-blend-mode: darken;
+    height: 725px;
+  
+}
+
+.logo1 {
+    width: 205px;
+    height: 119px;
+    position: relative;
+    left: 34px;
+}
+
+.showcase-content {
+
+    color: white;
+    font-family: Netflix Sans, Helvetica Neue, Helvetica, Arial, sans-serif;
+    text-align: center;
+    height: 200px;
+}
+
+.heading1 {
+    margin-top: 100px;
+    font-size: 4rem;
+    font-weight: 600;
+}
+
+.btn {
+    padding: 7px 17px;
+    color: white;
+
+
+}
+
+body {
+
+    overflow-x: hidden;
+    background: black;
+
+}
+
+.topnav {
+    height: 100px;
+    display: flex;
+    width: 100%;
+}
+
+.left {
+    width: 50%;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.right {
+    align-items: center;
+    justify-content: flex-end;
+    width: 50%;
+
+    display: flex;
+}
+
+.sign-in {
+    border-radius: 4px;
+    color: #fff;
+    padding: 7px 17px;
+    margin-right: 50px;
+    background-color: #e50914;
+}
+
+.dropbutton {
+    background-color: transparent;
+    color: #fff;
+    margin-right: 50px;
+    height: 34px;
+    width: 90px;
+    font-size: .875rem;
+}
+
+.mailbox {
+
+    width: 517px;
+    height: 35px;
+
+    margin-left: 500px;
+    padding-top: 30px;
+}
+.getbutton
+{
+    font-size: 1rem;
+}
+
+.p {
+    font-size: 20px;
+}
+
+#h3 {
+    font-size: 1.900rem;
+    font-weight: 400;
+}
+.showcase-content{
+    display: flex;
+    justify-content: center;
+}
+
+.search{
+    position: relative;
+    right:250px
+}
+.login-bt
+{
+
+ color: #fff;
+ width: 300px;
+ height:73px;
+font-size:20px;
+ background-color: #e50914;
+ position: relative;
+ top: -6px;
+ left: -8px;
+}
+.root2
+{
+    width:1519;
+    height:500px;
+    background-color: black;
+}
+.tvleft
+{
+    display: flex;
+    justify-content: center;
+ width: 750px;
+ height: 500px;
+ background-color:black;
+}
+.tvright
+{
+    
+    display: flex;
+    width: 750px;
+ height: 500px;
+    background-color:black;
+}
+.tvtext
+{
+    margin-top: 120px;
+    width: 545px;
+    height: 195px;
+    background-color: black;
+    color:#fff;
+}
+.header2
+{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+#h{
+    color: #fff;
+    font: 50px;
+    font-family: Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 3.125rem;
+}
+.root3
+{
+    width:1519;
+    height:500px;
+    background-color:black;
+}
+.tvleft2
+{
+
+ width: 750px;
+ height: 500px;
+ background-color: black;
+}
+.tvright2
+{
+    display: flex;
+    justify-content: center;
+    width: 750px;
+ height: 500px;
+    background-color:black;
+}
+.header3
+{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.tvtext2
+{
+    margin-top: 120px;
+    width: 545px;
+    height: 195px;
+    background-color: black;
+    color:#fff;
+}
+#h2{
+    color:#fff;
+    font: 50px;
+    font-family: Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 3.125rem;
+}
+.phoneimg
+{
+    margin: 50px 130px ;
+    width: 504px;
+    height: 378px;
+}
+.root4
+{
+    width:1519;
+    height:500px;
+    background-color: black;
+}
+.tvleft3
+{
+    display: flex;
+    justify-content: center;
+ width: 750px;
+ height: 500px;
+ background-color:black;
+}
+.tvright3
+{
+    display: flex;
+    width: 750px;
+ height: 500px;
+    background-color:black;
+}
+.tvtext3
+{
+    margin-top: 120px;
+    width: 545px;
+    height: 195px;
+    background-color: black;
+    color:#fff;
+}
+.header4
+{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+#h3{
+    color: #fff;
+    font: 50px;
+    font-family: Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+.root5
+{
+    width:1519;
+    height:500px;
+}
+.tvleft4
+{
+
+ width: 750px;
+ height: 500px;
+ background-color:black;
+}
+.tvright4
+{
+    display: flex;
+    justify-content: center;
+    width: 750px;
+ height: 500px;
+    background-color:black;
+}
+.header5
+{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.tvtext4
+{
+    margin-top: 120px;
+    width: 545px;
+    height: 195px;
+    background-color:black;
+    color:#fff;
+}
+#h4{
+    color: #fff;
+    font: 50px;
+    font-family: Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 3.125rem;
+}
+.root6
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1519px;
+    height: 941px;
+    background-color: black;
+}
+.finalbutton
+{
+    color: #fff;
+    background-color: #303030;
+    padding: 20px;
+    width: 815px;
+    height: 75.;
+    font-size:30px;
+    text-align: left;
+    margin-bottom: 7px;
+}
+.header6
+{
+   width: 1429px;
+   height: 793px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:black;
+    
+}
+.finalhead
+{
+    font-family: Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+color: #fff;
+    font-size: 3.125rem;
+}
+.formhead
+{
+    width: 800px;
+    text-align: center;
+    font-size: 1.2rem;
+    max-width: none;
+    margin:50px;
+    color: #fff;
+}
+.bottomemail
+{
+    position: relative;
+    left:40px;
+    font-size: 25px;
+    width: 511px;
+    height: 71px;
+}
+.endmailbutton
+{
+   
+    width: 275px;
+    height: 78px;
+    margin: 1px;
+    background-color: #e50914;
+    color: #fff;
+    padding: 18px;
+    padding-bottom: 46px;
+}
+.imgss1
+{
+    position: relative;
+    margin: 100px 130px;
+    width: 463px;
+    height: 303px;
+}
+hr{
+        height: 7px;
+        background-color:#303030;
+        border: none;
+
+}
+.root3h2
+{
+    margin-bottom: 70px;
+}
+.imgss3
+{
+    margin: 75px 100px;
+    width:500px;
+    height: 400px;
+}
+.cartoonimg
+{
+    margin: 79px 146px;
+    width: 457px;
+    height: 363px;
+}
+.footer
+{
+    list-style: none;
+   display: flex;
+   justify-content: center;
+   align-items: flex-end;
+   height: 300px;
+   padding-bottom: 85px;
+}
+#qustionspara{
+    position: relative;
+    left: 40px;
+    top:-3px;
+    padding-bottom: 20px;
+    color:#737373;
+}
+.list li{
+    padding-top: 10px;
+    padding-left: 20px;
+
+}
+.lastrow
+{
+margin-bottom: 30px;
+}
+.listcolor
+{
+    color:#737373;
+    text-decoration: none;
+}
+.span
+{
+    font-size: 58px;
+    margin-left: 314px;
+}
+.finaldiv{
+    height: 50px;
+    width: 50%;
+    background-color: grey;
+    display: flex   ;
+    
+    
+}
+.endgetstart
+{
+  padding: 20px;
+    font-size: 30px;
+}
